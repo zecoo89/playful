@@ -1,5 +1,5 @@
 {
-  "testType": "tdd",
+  "testType": "unitest",
   "excludes": [
     "./node_modules"
   ]
