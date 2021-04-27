@@ -7,4 +7,8 @@ Playful is unit test tool.
 $ npm i
 $ npm link
 $ which playful
+
+
+#TODO
+☐
 ```

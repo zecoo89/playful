@@ -7,7 +7,7 @@ describe('testGroupName', () => {
 
   test('Fail test', function() {
     const received = 100
-    const expected = 10
+    const expected = 20
     expect(received).toBe(expected)
   })
 })
