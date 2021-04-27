@@ -1,0 +1,24 @@
+{
+  "name": "playful",
+  "version": "1.0.0",
+  "description": "This repo is hobby.",
+  "bin": {
+    "playful": "bin/app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zecoo89/playful.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zecoo89/playful/issues"
+  },
+  "homepage": "https://github.com/zecoo89/playful#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

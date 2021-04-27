@@ -1,0 +1,6 @@
+{
+  "testType": "tdd",
+  "excludes": [
+    "./node_modules"
+  ]
+}
