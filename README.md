@@ -1,5 +1,5 @@
 # Playful
-This repo is hobby.
+This repository is hobby and to learn how to make unit test tool.
 
 Playful is unit test tool.
 
